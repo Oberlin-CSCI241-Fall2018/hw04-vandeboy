@@ -1,0 +1,20 @@
+Peng Gu
+10/15/2018
+
+bits.c: contains print_bits and decode_bits that the following programs use
+encode_bits.c: reads characters and output binary form numbers
+decode_bits.c: reads binary form numbers and output characters
+bits.h: header file for bits.c
+count.c: counts the frequency of alphabetical characters in a text file
+getnum.c: reads an integer and returns the value and handles "programming hints for part 3"
+tobinary.c: reads text file and returns binary integers
+todecimal.c: reads text file and returns decimal integers
+tooctal.c: reads text file and returns octal integers
+tohex.c: reads text file and returns hexadecimal integers
+
+
+Part 1: 3hours
+Part 2: 4hours
+Part 3: 6hours
+
+I've adhered to the Honor Code in this assignment.
